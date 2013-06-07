@@ -1,0 +1,14 @@
+*bats.txt*  basic vim/bats integration
+
+Author:  Mark Cornick <https://github.com/markcornick>
+License: MIT license
+Repo:    https://github.com/markcornick/vim-bats
+
+COMMANDS                                        *bats*
+
+This command is only available if bats is in your PATH.
+
+                                                *bats-:Bats*
+:Bats [args]         Invoke an arbitrary bats command.
+
+ vim:tw=78:et:ft=help:norl:
