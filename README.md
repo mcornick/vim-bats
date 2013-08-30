@@ -15,6 +15,6 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <mark@markcornick.com>. Licensed under the MIT license.
+Written by Mark Cornick <mark@cornick.io>. Licensed under the MIT license.
 
 [bats]: https://github.com/sstephenson/bats
