@@ -1,8 +1,8 @@
 # vim-bats
 
 This plugin adds a `:Bats` command that runs [bats][bats]. It also sets up
-files with a .bats extension to be highlighted as shell scripts, since that's
-ultimately what they are.
+syntax highlighting for files with a .bats extension using the ftdetect
+plugin from [bats.vim][bats.vim].
 
 ## Installation
 
@@ -15,6 +15,8 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <mark@cornick.io>. Licensed under the MIT license.
+Syntax highlighting by Ross Timson <ross@rosstimson.com>. The rest
+written by Mark Cornick <mark@cornick.io>. Licensed under the MIT license.
 
 [bats]: https://github.com/sstephenson/bats
+[bats.vim]: http://www.vim.org/scripts/script.php?script_id=4628
