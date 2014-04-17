@@ -1,5 +1,5 @@
 " bats.vim - basic vim/bats integration
-" Maintainer: Mark Cornick <https://bitbucket.org/markcornick>
+" Maintainer: Mark Cornick <https://github.com/markcornick>
 
 if exists("g:loaded_bats") || v:version < 700 || &cp || !executable('bats')
   finish
