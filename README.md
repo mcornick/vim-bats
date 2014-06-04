@@ -1,8 +1,10 @@
 # vim-bats
 
-This plugin adds a `:Bats` command that runs [bats][bats]. It also sets up
-syntax highlighting for files with a .bats extension using the ftdetect
-plugin from [bats.vim][bats.vim].
+This plugin adds:
+
+* A `:Bats` command that runs [bats][bats]
+* Syntax highlighting for files with a .bats extension using the ftdetect plugin from [bats.vim][bats.vim]
+* A `bats` compiler errorformat, which can parse output from `bats --tap` for display line numbers and errors in a quickfix window
 
 ## Installation
 
