@@ -17,7 +17,8 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Syntax highlighting by Ross Timson <ross@rosstimson.com>. The rest
+Syntax highlighting by Ross Timson <ross@rosstimson.com>.
+Compiler error format by Justin Campbell @justincampbell. The rest
 written by Mark Cornick <mark@cornick.io>. Licensed under the MIT license.
 
 [bats]: https://github.com/sstephenson/bats
