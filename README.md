@@ -1,3 +1,8 @@
+# Unmaintained
+
+This plugin is no longer maintained. If you'd like to take over
+maintenance, please let me know.
+
 # vim-bats
 
 This plugin adds:
