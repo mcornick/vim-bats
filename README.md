@@ -28,8 +28,11 @@ If you prefer to use something besides pathogen, go ahead.
 
 Syntax highlighting by Ross Timson <mailto:ross@rosstimson.com>.
 Compiler error format by Justin Campbell @justincampbell. The rest
-written by Mark Cornick <mailto:mark@markcornick.com>. Licensed under the MIT
-license.
+written by Mark Cornick <mailto:mark@markcornick.com> and these contributors:
+
+* Jonathan Sokolowski (@jsok)
+
+Licensed under the MIT license.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the [Contributor
